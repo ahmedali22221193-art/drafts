@@ -2,7 +2,7 @@
 
 Anyone can contribute to this work; you don't have to join the Working Group, because there is no "membership" -- anyone who participates in the work, as outlined below, is part of the AI Preferences Working Group.
 
-Before doing so, it's a good idea to familiarize yourself with our [charter](https://datatracker.ietf.org/wg/aipref/about/) and [home page](/). If you're new to the [IETF](https://www.ietf.org/), you may also want to read [Getting Started the IETF](https://www.ietf.org/participate/get-started/) and [an informal guide to the IETF process](https://www.ietf.org/process/informal/).
+Before doing so, it's a good idea to familiarize yourself with our [charter](httpsgh repo clone ietf-wg-aipref/drafts://datatracker.ietf.org/wg/aipref/about/) and [home page](/). If you're new to the [IETF](https://www.ietf.org/), you may also want to read [Getting Started the IETF](https://www.ietf.org/participate/get-started/) and [an informal guide to the IETF process](https://www.ietf.org/process/informal/).
 
 **Be aware that all contributions fall under the "NOTE WELL" terms outlined below.**
 
